@@ -1,0 +1,58 @@
+{
+    "recipes": [
+      {
+        "recipe_id": 1,
+        "recipe_name": "Chicken Stir-Fry",
+        "short_description": "A quick and flavorful chicken stir-fry with vegetables.",
+        "ingredients": ["550 g chicken", "120 ml soy sauce", "200 g basil leaves", "400 g mushroom"],
+        "preparing_time": "30 min",
+        "calories": "320 calories",
+        "recipe_image": "https://images.immediate.co.uk/production/volatile/sites/30/2018/05/Chicken-stir-fry-recipes-0d2adc1.jpg"
+      },
+      {
+        "recipe_id": 2,
+        "recipe_name": "Vegetable Curry",
+        "short_description": "A hearty vegetable curry with a blend of spices.",
+        "ingredients": ["400 g mixed vegetables", "200 ml coconut milk", "100 g curry paste", "250 g rice"],
+        "preparing_time": "45 min",
+        "calories": "280 calories",
+        "recipe_image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/recipe-image-legacy-id-402452_12-d37f0f4.jpg"
+      },
+      {
+        "recipe_id": 3,
+        "recipe_name": "Spaghetti Carbonara",
+        "short_description": "Classic spaghetti carbonara with crispy bacon and creamy sauce.",
+        "ingredients": ["350 g spaghetti", "200 g bacon", "3 eggs", "100 g grated Parmesan cheese"],
+        "preparing_time": "25 min",
+        "calories": "450 calories",
+        "recipe_image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/recipe-image-legacy-id-1001491_11-2e0fa5c.jpg"
+      },
+      {
+        "recipe_id": 4,
+        "recipe_name": "Caprese Salad",
+        "short_description": "A refreshing salad with tomatoes, mozzarella, and basil.",
+        "ingredients": ["4 large tomatoes", "200 g fresh mozzarella cheese", "50 g fresh basil leaves", "2 tbsp balsamic vinegar"],
+        "preparing_time": "15 min",
+        "calories": "180 calories",
+        "recipe_image": "https://images.immediate.co.uk/production/volatile/sites/30/2022/05/Caprese-salad-8f218a3.png"
+      },
+      {
+        "recipe_id": 5,
+        "recipe_name": "Grilled Salmon",
+        "short_description": "Juicy grilled salmon seasoned with herbs and lemon.",
+        "ingredients": ["4 salmon fillets", "2 tbsp olive oil", "1 lemon", "2 cloves garlic, minced"],
+        "preparing_time": "20 min",
+        "calories": "280 calories",
+        "recipe_image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/grilled-miso-salmon-with-rice-noodles-58a2bbb.jpg"
+      },
+      {
+        "recipe_id": 6,
+        "recipe_name": "Mushroom Risotto",
+        "short_description": "Creamy mushroom risotto made with Arborio rice and Parmesan cheese.",
+        "ingredients": ["300 g Arborio rice", "200 g mushrooms", "1 onion", "1 L vegetable broth"],
+        "preparing_time": "40 min",
+        "calories": "350 calories",
+        "recipe_image": "https://images.immediate.co.uk/production/volatile/sites/30/2020/08/recipe-image-legacy-id-52074_11-ca58d45.jpg"
+      }
+    ]
+  }
