@@ -73,7 +73,7 @@
         "totalPages": 1033,
         "rating": 4.9,
         "category": "Poetry",
-        "tags": ["Songs", "Poems", "Literature"],
+        "tags": ["Songs", "Poems"],
         "publisher": "Visva-Bharati",
         "yearOfPublishing": 1931
     },
@@ -99,7 +99,7 @@
         "totalPages": 159,
         "rating": 4.0,
         "category": "Fiction",
-        "tags": ["Classics", "20th Century", "Philosophy"],
+        "tags": ["Classics", "20th Century"],
         "publisher": "Gallimard",
         "yearOfPublishing": 1942
     },
@@ -112,7 +112,7 @@
         "totalPages": 449,
         "rating": 4.2,
         "category": "Fiction",
-        "tags": ["Mystery", "Gothic", "Romance"],
+        "tags": ["Mystery", "Gothic"],
         "publisher": "Victor Gollancz LTD",
         "yearOfPublishing": 1938
     }
